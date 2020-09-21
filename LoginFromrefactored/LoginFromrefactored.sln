@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginFromrefactored", "LoginFromrefactored\LoginFromrefactored.csproj", "{DA029198-0389-435D-950D-7E074AFB884A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA029198-0389-435D-950D-7E074AFB884A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA029198-0389-435D-950D-7E074AFB884A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA029198-0389-435D-950D-7E074AFB884A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA029198-0389-435D-950D-7E074AFB884A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4B818F-AFD6-4949-B618-7CED7AEAD2C5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Users\opilane\source\repos\WEEK2NEW\Testfeedback\obj\Debug\netcoreapp3.1\Testfeedback.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WEEK2NEW\Testfeedback\obj\Debug\netcoreapp3.1\Testfeedback.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WEEK2NEW\Testfeedback\obj\Debug\netcoreapp3.1\Testfeedback.csproj.CoreCompileInputs.cache

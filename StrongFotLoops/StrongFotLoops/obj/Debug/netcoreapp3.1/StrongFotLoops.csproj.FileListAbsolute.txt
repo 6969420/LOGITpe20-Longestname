@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.exe
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.deps.json
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.runtimeconfig.json
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.dll
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\bin\Debug\netcoreapp3.1\StrongFotLoops.pdb
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.dll
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.pdb
+C:\Users\opilane\source\repos\StrongFotLoops\StrongFotLoops\obj\Debug\netcoreapp3.1\StrongFotLoops.genruntimeconfig.cache
