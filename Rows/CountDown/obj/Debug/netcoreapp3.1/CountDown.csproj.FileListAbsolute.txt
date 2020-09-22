@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\Rows\CountDown\obj\Debug\netcoreapp3.1\CountDown.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Rows\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rows\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rows\CountDown\obj\Debug\netcoreapp3.1\CountDown.csproj.CoreCompileInputs.cache

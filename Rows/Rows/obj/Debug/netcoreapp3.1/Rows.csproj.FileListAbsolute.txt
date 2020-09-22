@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.exe
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.deps.json
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.runtimeconfig.json
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.dll
+C:\Users\opilane\source\repos\Rows\Rows\bin\Debug\netcoreapp3.1\Rows.pdb
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.dll
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.pdb
+C:\Users\opilane\source\repos\Rows\Rows\obj\Debug\netcoreapp3.1\Rows.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.exe
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.deps.json
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.runtimeconfig.json
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.dll
+C:\Users\opilane\source\repos\Rows\Bottles Song\bin\Debug\netcoreapp3.1\Bottles Song.pdb
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.dll
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.pdb
+C:\Users\opilane\source\repos\Rows\Bottles Song\obj\Debug\netcoreapp3.1\Bottles Song.genruntimeconfig.cache
