@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.exe
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.deps.json
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.dll
+C:\Users\opilane\source\repos\WhileLoop\Threeries\bin\Debug\netcoreapp3.1\Threeries.pdb
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.dll
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.pdb
+C:\Users\opilane\source\repos\WhileLoop\Threeries\obj\Debug\netcoreapp3.1\Threeries.genruntimeconfig.cache
