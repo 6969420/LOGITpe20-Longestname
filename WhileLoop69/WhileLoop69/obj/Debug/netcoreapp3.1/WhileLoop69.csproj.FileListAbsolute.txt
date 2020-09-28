@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.exe
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.deps.json
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.dll
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\bin\Debug\netcoreapp3.1\WhileLoop69.pdb
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.dll
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.pdb
+C:\Users\opilane\source\repos\WhileLoop69\WhileLoop69\obj\Debug\netcoreapp3.1\WhileLoop69.genruntimeconfig.cache
